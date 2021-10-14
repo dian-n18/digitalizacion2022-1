@@ -2,4 +2,8 @@ Ejemplo para la clase de Ramas (semana 4)
 
 comienzo el documento
 
+|Muestra||Tensión [V]||Corriente [A]|
+-------------------------------------
+|       |             |             |
+
 
