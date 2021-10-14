@@ -2,4 +2,11 @@ Ejemplo para la clase de Ramas (semana 4)
 
 responsable: Diana Domínguez
 
+comienzo el documento
+
+|Muestra||Tensión [V]||Corriente [A]|
+-------------------------------------
+|       |             |             |
+
+
 
